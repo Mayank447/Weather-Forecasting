@@ -1,6 +1,4 @@
-These are the instruction for any person including GSOC mentors viewing this repository.
-
-The primary objective of this project is to predict weather using ML in remote areas having no access to internet, live satellite imagery. The model has been trained on weather dataset collected in Inida from past 20 years. This project has been completely written in Jupyter notebook and even the code profiling has been done in the same.
+The primary objective of this project is to predict weather using ML in remote areas having no access to internet, live satellite imagery. The model has been trained on weather dataset collected in India from past 20 years. This project has been completely written in Jupyter notebook and even the code profiling has been done in the same.
 
 Instructions to run this project are:-
 
